@@ -1,0 +1,10 @@
+D:\Unity\UnityProjects\ZorkBuilder\Zork.Unity\Assets\netstandard2.0\Zork.Common.deps.json
+D:\Unity\UnityProjects\ZorkBuilder\Zork.Unity\Assets\netstandard2.0\Zork.Common.dll
+D:\Unity\UnityProjects\ZorkBuilder\Zork.Unity\Assets\netstandard2.0\Zork.Common.pdb
+D:\Unity\UnityProjects\ZorkBuilder\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csprojAssemblyReference.cache
+D:\Unity\UnityProjects\ZorkBuilder\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfoInputs.cache
+D:\Unity\UnityProjects\ZorkBuilder\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.AssemblyInfo.cs
+D:\Unity\UnityProjects\ZorkBuilder\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.dll
+D:\Unity\UnityProjects\ZorkBuilder\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.pdb
+D:\Unity\UnityProjects\ZorkBuilder\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csproj.CoreCompileInputs.cache
+D:\Unity\UnityProjects\ZorkBuilder\Zork.Common\obj\Debug\netstandard2.0\Zork.Common.csproj.Fody.CopyLocal.cache
